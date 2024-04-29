@@ -1,2 +1,3 @@
-# CS-320-R4840-Software-Test-Automation-QA-24EW4-Mod-8-2
-In this journal assignment, you will make a submission to your portfolio. Remember that you will submit portfolio artifacts in different courses throughout the computer science program.
+I can use unit tests with wide code coverage and different disciplines like avoiding a programmer's bias to create more issues. Gaining proof of the cause of the issue first is important. I can also utilize white and black box testing methods to test thoroughly.
+I can read user needs like bullet points with an interview transcript. I can turn those bullet points into requirement derivatives as well. Needing a login system will include needing user account control and many other features.
+I can start designing software by getting user requirements and whiteboarding everything first. I can use UML diagrams and charts to map out logic. Once the entire project is on paper and accepted by the stakeholders, you can promote efficiency and prevent costly revisions.
